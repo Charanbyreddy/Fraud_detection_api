@@ -2,3 +2,8 @@
 "venv/" 
 "venv/Lib/site-packages/catboost/" 
 "venv/Lib/site-packages/xgboost/" 
+venv/ 
+creditcard.csv 
+*.pkl 
+__pycache__/ 
+*.pyc 
