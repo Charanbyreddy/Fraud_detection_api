@@ -1,5 +1,4 @@
-venv/ 
-__pycache__/ 
-*.pkl 
-creditcard.csv 
-.DS_Store 
+"creditcard.csv" 
+"venv/" 
+"venv/Lib/site-packages/catboost/" 
+"venv/Lib/site-packages/xgboost/" 
