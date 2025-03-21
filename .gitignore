@@ -1,4 +1,9 @@
-"creditcard.csv" 
-"venv/" 
-"venv/Lib/site-packages/catboost/" 
-"venv/Lib/site-packages/xgboost/" 
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+
+# Ignore large CSV files
+creditcard.csv
