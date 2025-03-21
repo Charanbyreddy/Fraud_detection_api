@@ -1,0 +1,13 @@
+# Ignore virtual environment and unnecessary system files
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore large dataset files (adjust if needed)
+*.csv
+*.xlsx
+
+# Ignore IDE-specific files
+*.vscode/
+*.idea/

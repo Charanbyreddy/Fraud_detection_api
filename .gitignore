@@ -1,9 +1,5 @@
-# Ignore dataset files
-creditcard.csv
-
-# Ignore virtual environment
-venv/
-
-# Ignore large package files
-venv/Lib/site-packages/catboost/
-venv/Lib/site-packages/xgboost/
+venv/ 
+__pycache__/ 
+*.pkl 
+creditcard.csv 
+.DS_Store 
